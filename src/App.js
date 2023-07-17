@@ -36,135 +36,138 @@ const App = () => {
   const [progress, setProgress] = useState(0);
 
   return (
-    <div data-testid={'mainBody'} style={{ position: "relative" }}>
-      <Router>
-        <Navbar />
-        <LoadingBar
-          height={3}
-          color="#f11946"
-          progress={progress}
-        //onLoaderFinished={}
-        />
+    <>
+      <div data-testid={"container"}></div>
+      <div data-testid={"mainBody"} style={{ position: "relative" }}>
+        <Router>
+          <Navbar />
+          <LoadingBar
+            height={3}
+            color="#f11946"
+            progress={progress}
+            //onLoaderFinished={}
+          />
 
-        <div className="container">
-          <Routes>
-            <Route
-              exact
-              path="/"
-              element={
-                <News
-                  apikey={apikey}
-                  setProgress={setProgress}
-                  key="general"
-                  size={8}
-                  country="in"
-                  category="general"
-                />
-              }
-            />
-            <Route
-              exact
-              path="/sports"
-              element={
-                <News
-                  apikey={apikey}
-                  setProgress={setProgress}
-                  key="Sports"
-                  size={8}
-                  country="in"
-                  category="Sports"
-                />
-              }
-            />
-            <Route
-              exact
-              path="/business"
-              element={
-                <News
-                  apikey={apikey}
-                  setProgress={setProgress}
-                  key="Business"
-                  size={8}
-                  country="in"
-                  category="Business"
-                />
-              }
-            />
-            <Route
-              exact
-              path="/entertainment"
-              element={
-                <News
-                  apikey={apikey}
-                  setProgress={setProgress}
-                  key="Entertainment"
-                  size={8}
-                  country="in"
-                  category="Entertainment"
-                />
-              }
-            />
-            <Route
-              exact
-              path="/health"
-              element={
-                <News
-                  apikey={apikey}
-                  setProgress={setProgress}
-                  key="Health"
-                  size={8}
-                  country="in"
-                  category="Health"
-                />
-              }
-            />
-            <Route
-              exact
-              path="/science"
-              element={
-                <News
-                  apikey={apikey}
-                  setProgress={setProgress}
-                  key="Science"
-                  size={8}
-                  country="in"
-                  category="Science"
-                />
-              }
-            />
-            <Route
-              exact
-              path="/technology"
-              element={
-                <News
-                  apikey={apikey}
-                  setProgress={setProgress}
-                  key="Technology"
-                  size={8}
-                  country="in"
-                  category="Technology"
-                />
-              }
-            />
-          </Routes>
-        </div>
-      </Router>
-      <button
-        type="button"
-        className="btn btn-danger btn-floating btn-lg my-5"
-        style={{
-          writingMode: "vertical-lr",
-          borderRadius: "50px",
-          position: "fixed",
-          bottom: "10px",
-          right: "20px",
-          zIndex: 2,
-        }}
-        id="btn-back-to-top"
-      >
-        <span className="fas fa-arrow-up"></span>
-      </button>
-    </div>
+          <div className="container">
+            <Routes>
+              <Route
+                exact
+                path="/"
+                element={
+                  <News
+                    apikey={apikey}
+                    setProgress={setProgress}
+                    key="general"
+                    size={8}
+                    country="in"
+                    category="general"
+                  />
+                }
+              />
+              <Route
+                exact
+                path="/sports"
+                element={
+                  <News
+                    apikey={apikey}
+                    setProgress={setProgress}
+                    key="Sports"
+                    size={8}
+                    country="in"
+                    category="Sports"
+                  />
+                }
+              />
+              <Route
+                exact
+                path="/business"
+                element={
+                  <News
+                    apikey={apikey}
+                    setProgress={setProgress}
+                    key="Business"
+                    size={8}
+                    country="in"
+                    category="Business"
+                  />
+                }
+              />
+              <Route
+                exact
+                path="/entertainment"
+                element={
+                  <News
+                    apikey={apikey}
+                    setProgress={setProgress}
+                    key="Entertainment"
+                    size={8}
+                    country="in"
+                    category="Entertainment"
+                  />
+                }
+              />
+              <Route
+                exact
+                path="/health"
+                element={
+                  <News
+                    apikey={apikey}
+                    setProgress={setProgress}
+                    key="Health"
+                    size={8}
+                    country="in"
+                    category="Health"
+                  />
+                }
+              />
+              <Route
+                exact
+                path="/science"
+                element={
+                  <News
+                    apikey={apikey}
+                    setProgress={setProgress}
+                    key="Science"
+                    size={8}
+                    country="in"
+                    category="Science"
+                  />
+                }
+              />
+              <Route
+                exact
+                path="/technology"
+                element={
+                  <News
+                    apikey={apikey}
+                    setProgress={setProgress}
+                    key="Technology"
+                    size={8}
+                    country="in"
+                    category="Technology"
+                  />
+                }
+              />
+            </Routes>
+          </div>
+        </Router>
+        <button
+          type="button"
+          className="btn btn-danger btn-floating btn-lg my-5"
+          style={{
+            writingMode: "vertical-lr",
+            borderRadius: "50px",
+            position: "fixed",
+            bottom: "10px",
+            right: "20px",
+            zIndex: 2,
+          }}
+          id="btn-back-to-top"
+        >
+          <span className="fas fa-arrow-up"></span>
+        </button>
+      </div>
+    </>
   );
 };
 

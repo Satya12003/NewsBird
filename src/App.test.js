@@ -7,4 +7,9 @@ describe('My First Test', () => {
     const outerDiv = await screen.findByTestId("mainBody");
     expect(outerDiv).toBeInTheDocument();
   })
+  test("This test should fail as the data-testid is wrong", async () => {
+    render(<App />);
+    const outerDiv = await screen.findByTestId("containe");
+    expect(outerDiv).toBeInTheDocument();
+  });
 })
