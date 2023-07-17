@@ -34,7 +34,6 @@ pipeline {
                 sh 'kubectl delete deployment --all'
                 sh 'kubectl delete services --all'
                 kubernetesDeploy(configs: "deploymentservie.yaml", kubeconfigId: "kubernetes")
-                sh 'minikube service nodeapp-service'
             }
         }
         }
