@@ -9,7 +9,7 @@ describe('My First Test', () => {
   })
   test("This test should fail as the data-testid is wrong", async () => {
     render(<App />);
-    const outerDiv = await screen.findByTestId("containe");
+    const outerDiv = await screen.findByTestId("container");
     expect(outerDiv).toBeInTheDocument();
   });
 })
