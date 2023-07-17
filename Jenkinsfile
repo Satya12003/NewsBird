@@ -31,7 +31,10 @@ pipeline {
             }
         stage('Pushing to k8s'){
             steps{
+                sh 'kubectl delete deployment --all'
+                sh 'kubectl delete services --all'
                 kubernetesDeploy(configs: "deploymentservie.yaml", kubeconfigId: "kubernetes")
+                sh 'minikube service nodeapp-service'
             }
         }
         }
