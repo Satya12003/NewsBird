@@ -36,7 +36,7 @@ const App = () => {
   const [progress, setProgress] = useState(0);
 
   return (
-    <div style={{ position: "relative" }}>
+    <div data-testid={'mainBody'} style={{ position: "relative" }}>
       <Router>
         <Navbar />
         <LoadingBar

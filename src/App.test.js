@@ -1,8 +1,10 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+describe('My First Test', () => {
+  test('Check whether the component is there or not', async () => {
+    render(<App />);
+    const outerDiv = await screen.findByTestId("mainBody");
+    expect(outerDiv).toBeInTheDocument();
+  })
+})
