@@ -19,7 +19,7 @@ pipeline {
         stage('Push Container'){
             steps {
                 echo "WorkSpace is $WORKSPACE"
-                dir("$WORKSPACE/azure-vote"){
+                dir("$WORKSPACE"){
                     script{
                            withCredentials([string(credentialsId: 'dockerhubpwd', variable: 'dockerhubpwd')]) {
                             sh 'docker login -u narasimharao12 -p ${dockerhubpwd}'
