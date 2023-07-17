@@ -18,8 +18,7 @@ pipeline {
         }
         stage('Running Tests'){
             steps{
-                sh 'cd src'
-                sh 'npm test'
+                sh 'npm test a'
             }
         }
         stage('Push Container'){
