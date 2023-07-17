@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Florida TV journalist and child shot dead at scene of earlier murder - BBC",
+            "description": "The journalist had been covering the fatal shooting of a 20-year-old woman earlier that day.",
+            "url": "https://www.bbc.com/news/world-us-canada-64740209",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9878/production/_128723093_sheriffcar.jpg",
+            "publishedAt": "2023-02-23T11:39:25Z",
+            "content": "A TV reporter and a nine-year-old girl have been fatally shot near Orlando, Florida, close to the scene of a murder that took place hours earlier. \r\nA second reporter and the girl's mother were shot … [+3578 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Horowitz",
+            "title": "Russia's economy is hurting despite Putin's bluster - CNN",
+            "description": "When Russia launched its full-scale invasion of Ukraine one year ago, Western countries hit back with unprecedented sanctions to punish Moscow and pile pressure on President Vladimir Putin. The aim: to deal an economic blow so severe that Putin would reconsid…",
+            "url": "https://www.cnn.com/2023/02/22/business/russia-economy-ukraine-anniversary/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230221111511-russia-economy-021023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-23T11:00:00Z",
+            "content": "When Russia launched its full-scale invasion of Ukraine one year ago, Western countries hit back with unprecedented sanctions to punish Moscow and pile pressure on President Vladimir Putin. The aim: … [+8338 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Emily Farache",
+            "title": "The 'next Ozempic' became a social media sensation. Then everything changed - The Independent",
+            "description": "When Mounjaro came on the market, TikTok went wild. People with obesity ordered the drug in droves thanks to a coupon that allowed them to access it for just $25 a month. Then the coupon went away, leaving destruction in its wake — and obese patients warring …",
+            "url": "https://www.independent.co.uk/news/world/americas/ozempic-mounjaro-side-effects-diabetes-weight-loss-b2288015.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/22/18/GettyImages-1245721969.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-23T10:55:39Z",
+            "content": "Sign up to our Evening Headlines email for your daily guide to the latest news\r\nSign up to our free US Evening Headlines email\r\nKay thought shed finally made it.\r\nAfter years of diets, exercise routi… [+10766 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "James Webb telescope captures ancient galaxies that theoretically shouldn't exist | Engadget - Engadget",
+            "description": "Scientists found ancient galaxies as big as ours that should not exist, based on current cosmological theory..",
+            "url": "https://www.engadget.com/james-webb-telescope-ancient-galaxies-theoretically-should-not-exist-102034475.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/UNCeS4L7v6IvPtm.9qNtiQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/85636fd0-b352-11ed-a6f8-93d9a57b4b8b.cf.jpg",
+            "publishedAt": "2023-02-23T10:21:25Z",
+            "content": "The James Webb Telescope has been giving us clearer views of celestial objects and exposing hidden features since it became operational last year. Now, according to a study conducted by an internatio… [+2400 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "2 former House GOP candidates alerted to improper requests for Air Force records - POLITICO",
+            "description": "Sam Peters and Kevin Dellicker are the fourth and fifth known recipients of letters regarding the records releases, which have sparked an investigation by House Republicans.",
+            "url": "https://www.politico.com/news/2023/02/23/house-gop-candidates-air-force-records-00084053",
+            "urlToImage": "https://static.politico.com/80/ac/0c372d424ac6862a803b1f737313/election-2022-nevada-house-21242.jpg",
+            "publishedAt": "2023-02-23T09:30:00Z",
+            "content": "Peters and Dellicker are the fourth and fifth known recipients of Air Force letters regarding the records releases, which have sparked an investigation by House Republicans. They are joining Reps. Do… [+4867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "Alabama Crimson Tide vs. South Carolina Gamecocks Live Score and Stats - February 22, 2023 Gametracker - CBS Sports",
+            "description": "Get real-time COLLEGEBASKETBALL basketball coverage and scores as Alabama Crimson Tide takes on South Carolina Gamecocks. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
+            "url": "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20230222_BAMA@SC/",
+            "urlToImage": "https://sportsfly.cbsistatic.com/fly-0411/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+            "publishedAt": "2023-02-23T09:27:49Z",
+            "content": "COLUMBIA, S.C. (AP) Brandon Miller found a safe spot on the basketball court and put up his career-best showing to rescue No. 2 Alabama.\r\nMiller scored a career-high 41 points, including the go-ahead… [+4035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Deep Earthquakes Reveal Shocking Secrets of the Inner Earth - SciTechDaily",
+            "description": "350-mile-deep earthquake used in scientific study to make elusive measurements of the Earth’s layers. There may be a layer of surprisingly fluid rock ringing the Earth, at the very bottom of the upper mantle, according to a new study from a University of Chic…",
+            "url": "https://scitechdaily.com/deep-earthquakes-reveal-shocking-secrets-of-the-inner-earth/",
+            "urlToImage": "https://scitechdaily.com/images/Earth-Core-Structure.jpg",
+            "publishedAt": "2023-02-23T09:14:11Z",
+            "content": "ByLouise Lerner, University of ChicagoFebruary 23, 2023\r\nA new study led by University of Chicago geophysicist Sunyoung Park suggests there may be a layer of surprisingly fluid rock located in the Ea… [+6392 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi",
+            "title": "6 takeaways from CNN town hall on toxic train disaster in East Palestine, Ohio - CNN",
+            "description": "Residents of a small Ohio town whose lives have been upended since a train hauling toxic chemicals derailed there earlier this month pressed top officials on the long-term health concerns and expressed their mounting distrust Wednesday night during a CNN town…",
+            "url": "https://www.cnn.com/2023/02/23/us/ohio-train-derailment-east-palestine-townhall-takeaways/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230223104447-02-toxic-train-disaster-town-hall.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-23T09:02:00Z",
+            "content": "Residents of a small Ohio town whose lives have been upended since a train hauling toxic chemicals derailed there earlier this month pressed top officials on the long-term health concerns and express… [+9368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Jack Schickler",
+            "title": "SEC Objects to Binance.US’ $1B Voyager Deal, Alleging Sale of Unregistered Securities - CoinDesk",
+            "description": "Federal and New York regulators object to a billion-dollar deal they say may be unlawful and discriminatory as they examine Voyager's VGX token.",
+            "url": "https://www.coindesk.com/policy/2023/02/23/sec-objects-to-binanceus-1b-voyager-deal-alleging-sale-of-unregistered-securities/",
+            "urlToImage": "https://www.coindesk.com/resizer/rtC50yxf-vJwbinrr60l3p5C22k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5WP6PJ422VAODJOUKHGCQDWL2M.jpg",
+            "publishedAt": "2023-02-23T09:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "The Associated Press",
+            "title": "In Russia-Ukraine war, more disastrous path could lie ahead - The Associated Press - en Español",
+            "description": "For Russia, it's been a year  of bold charges and bombardments, humiliating retreats and grinding sieges. Ukraine has countered with fierce resistance, surprising counteroffensives and unexpected hit-and-run strikes.",
+            "url": "https://apnews.com/article/russia-ukraine-war-what-lies-ahead-49dbadd8959284729b74b26b7db78fc1",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c74f095b14c04a63819df3acfc048a9b/2500.jpeg",
+            "publishedAt": "2023-02-23T08:16:24Z",
+            "content": "For Russia, its been a year of bold charges and bombardments, humiliating retreats and grinding sieges. Ukraine has countered with fierce resistance, surprising counteroffensives and unexpected hit-a… [+8065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Kelly Gilmore",
+            "title": "Eric Holder Jr. Sentenced to 60 Years to Life in Prison for Nipsey Hussle Murder - E! NEWS",
+            "description": "In the case of Nipsey Hussle’s 2019 murder, Eric Holder Jr. was sentenced to 60 years to life in prison on Feb. 22. Learn about the late rapper’s tragic death.",
+            "url": "https://www.eonline.com/news/1365811/eric-holder-jr-sentenced-to-60-years-to-life-in-prison-for-nipsey-hussle-murder",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023122/rs_1200x1200-230222144921-1200-nipsey-hussle.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-02-23T08:07:58Z",
+            "content": "Eric Holder Jr. has learned his fate. \r\nNearly four years after Nipsey Husslewas killed during a shooting outside his Los Angeles clothing store, Holder was sentenced on Feb. 22 to 60 years to life i… [+624 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "On eve of Ukraine war anniversary, Putin talks of boosting nuclear forces - Reuters",
+            "description": "President Vladimir Putin said Russia will maintain increased attention on <a href=\"/world/europe/putin-russia-pay-increased-attention-boosting-nuclear-forces-2023-02-22/\">boosting its nuclear forces</a> in an address to mark Thursday's Defender of the Fatherl…",
+            "url": "https://www.reuters.com/world/europe/biden-putin-display-their-alliances-with-ukraine-war-backdrop-2023-02-22/",
+            "urlToImage": "https://www.reuters.com/resizer/RawR53osey3h9BCUwPYzDef_b1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U2BGAD5EIRPLLM6RE227J42BQY.jpg",
+            "publishedAt": "2023-02-23T05:44:00Z",
+            "content": "Feb 23 (Reuters) - President Vladimir Putin said Russia will maintain increased attention on boosting its nuclear forces in an address to mark Thursday's Defender of the Fatherland public holiday and… [+5030 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ari Schneider",
+            "title": "Colorado Springs shooter ran neo-Nazi site, detective testifies - The Washington Post",
+            "description": "Anderson Lee Aldrich was captured on surveillance footage storming into Club Q – a haven for the LGBTQ community – in November.",
+            "url": "https://www.washingtonpost.com/nation/2023/02/22/colorado-springs-shooter-nazi-club-q/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LXMQGVSOAI63FFAKEUVJV2XCY_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-02-23T05:32:00Z",
+            "content": "Comment on this story\r\nProsecutors began building their case Wednesday for charging the suspected Colorado Springs nightclub shooter with dozens of hate crimes by describing how the alleged assailant… [+3846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prince Harry and Meghan Markle are a 'phoney pair': Megyn Kelly - Sky News Australia",
+            "description": "The Megyn Kelly Show host Megyn Kelly says Prince Harry and Meghan Markle are a “phoney pair” and only have themselves to blame for becoming an “internationa...",
+            "url": "https://www.youtube.com/watch?v=gLvTZ9FotM4",
+            "urlToImage": "https://i.ytimg.com/vi/gLvTZ9FotM4/maxresdefault.jpg",
+            "publishedAt": "2023-02-23T05:29:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Israel attacks Gaza after rocket fire, deadly Nablus raid - Al Jazeera English",
+            "description": "Israel attacks Gaza as tensions rise over an Israeli raid on the West Bank city of Nablus that killed 11 Palestinians.",
+            "url": "https://www.aljazeera.com/news/2023/2/23/rockets-fired-from-gaza-towards-israel-after-nablus-raid",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/339U4YY-highres-1.jpg?resize=1200%2C675",
+            "publishedAt": "2023-02-23T05:26:17Z",
+            "content": "Israel has bombed the Gaza Strip after Palestinian fighters launched several rockets from the besieged coastal enclave amid tensions over an Israeli raid that killed at least 11 Palestinians in the o… [+5180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "profootballrumors.com"
+            },
+            "author": null,
+            "title": "Titans Release LT Taylor Lewan - profootballrumors.com",
+            "description": "The Titans are following through with their expected Taylor Lewan release. After nine seasons in Tennessee, the Pro Bowl left &hellip;",
+            "url": "https://www.profootballrumors.com/2023/02/titans-to-release-lt-taylor-lewan",
+            "urlToImage": "https://cdn.profootballrumors.com/files/2023/02/USATSI_17450040-1024x768.jpg",
+            "publishedAt": "2023-02-23T04:28:00Z",
+            "content": "The Titans are following through with their expected Taylor Lewan release. After nine seasons in Tennessee, the Pro Bowl left tackle announced (via his Bussin’ With The Boys podcast, on Twitter) he i… [+2657 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alex Portée",
+            "title": "Jennifer Lopez wishes her twins a happy 15th birthday with sweet video - Yahoo News",
+            "description": "Jennifer Lopez celebrates her twins with sweet message and nickname of \"coconuts\" on their 15th birthday",
+            "url": "https://news.yahoo.com/jennifer-lopez-wishes-her-twins-041254061.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K7g0FVSsDHbX6pAg1geP_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/nbc_today_217/7b35c6350ba48a41dac70dda2b70f7e7",
+            "publishedAt": "2023-02-23T04:12:00Z",
+            "content": "Jennifer Lopez is celebrating her favorite \"coconuts\" aka her twins.\r\nThe Shotgun Wedding actor and singer took to Instagram on Feb. 22 to ring in a new era for her twins, Emme and Max Muñiz, who hav… [+2077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Caitlin Murray",
+            "title": "USWNT wins SheBelieves Cup, but still concerns for World Cup - ESPN",
+            "description": "The USWNT's results at the SheBelieves Cup couldn't have been better: three games and three wins. But the performances weren't as reassuring.",
+            "url": "https://www.espn.com/soccer/united-states-usaw/story/4883339/uswnt-wins-shebelieves-cup-but-still-concerns-for-world-cup",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0223%2Fr1135097_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-02-23T03:06:49Z",
+            "content": "The U.S. women's national team claimed its sixth SheBelieves Cup trophy with a 2-1 win over Brazil on Wednesday.\r\nGoals from Alex Morgan and Mallory Swanson, who was named tournament MVP, put the Ame… [+12042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Unlikely alliances in Supreme Court opinions on overtime, death penalty - NPR",
+            "description": "The cases involved who qualifies for overtime pay, and Arizona's refusal to apply a Supreme Court precedent in death penalty jury instructions.",
+            "url": "https://www.npr.org/2023/02/22/1158903079/unlikely-alliances-in-supreme-court-opinions-on-overtime-death-penalty",
+            "urlToImage": "https://media.npr.org/assets/img/2023/02/22/gettyimages-1243795466-2-_wide-a55646dc09e9ff2cd1a91e9b8a9a53983faff6b4-s1400-c100.jpg",
+            "publishedAt": "2023-02-23T02:14:43Z",
+            "content": "Justices of the U.S. Supreme Court\r\nOlivier Douliery /AFP via Getty Images\r\nThe U.S. Supreme Court defied its usual 6-to-3 conservative/liberal split in two decisions on Wednesday. One involved who q… [+3593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Grace Toohey",
+            "title": "Mt. Baldy could get 8 feet of snow this week - Los Angeles Times",
+            "description": "Forecasts show Southern California mountains could get 6 inches to 5 feet of snow by Saturday, but some of the highest peaks could get up to 8 feet.",
+            "url": "https://www.latimes.com/california/story/2023-02-22/mt-baldy-could-get-up-to-8-feet-of-snow-this-week",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/a057804/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7c%2Fa2%2Faa66f7dc4c819ea3d5a8fe811350%2Fla-hm-chris-erskine-mt-baldy-postcard.jpg",
+            "publishedAt": "2023-02-23T02:08:00Z",
+            "content": "Mt. Baldy could get up to 8 feet of snow or more this week from the likely historic winter storm expected to dump rain and snow and bring strong winds across Southern California.\r\nLos Angeles Countys… [+1675 chars]"
+        }
+    ]
+}
