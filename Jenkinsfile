@@ -16,6 +16,12 @@ pipeline {
                 """
             }
         }
+        stage('Running Tests'){
+            steps{
+                sh 'cd src'
+                sh 'npm test'
+            }
+        }
         stage('Push Container'){
             steps {
                 echo "WorkSpace is $WORKSPACE"
